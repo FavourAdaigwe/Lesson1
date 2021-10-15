@@ -6,7 +6,7 @@
 
     function cooking($food, $waterQuantity, $heat, $method){
 
-        echo "The $food was prepared with $waterQuantity cups of water on a $heat through $method <br>";
+        echo "The $food was prepare with $waterQuantity cups of water on a $heat through $method <br>";
 
     }
 
